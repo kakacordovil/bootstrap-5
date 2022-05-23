@@ -1,9 +1,8 @@
-# Create responsive websites efficiently with Bootstrap 5
+# Responsive website with Bootstrap 5
 
-Welcome to the GitHubt repository of the Portfolio exercise for the [OpenClassrooms course on Bootstrap 5](https://openclassrooms.com/en/courses/7655936-create-responsive-websites-efficiently-with-bootstrap-5).
+Welcome to the GitHub repository of the Portfolio exercise for the [OpenClassrooms course on Bootstrap 5](https://openclassrooms.com/en/courses/7655936-create-responsive-websites-efficiently-with-bootstrap-5).
 
-![Final Portfolio site!](/docs/img/final.png "Screenshot of the Portfolio project for the course")
-
+The exercise was:
 ## Summary
 
 - Part 1 - Learn What Bootstrap Is Used For
@@ -28,18 +27,6 @@ Welcome to the GitHubt repository of the Portfolio exercise for the [OpenClassro
   - Chapter 1 - Create Your Own Design Theme
   - Chapter 2 - Create Your Own Utility Classes with the Bootstrap 5 API
 
-
-> ### Congratulations 🎉 ! You have successfully completely the OpenClassrooms course on Bootstrap 5
-
-## Solutions to exercises
-
-All the steps (per chapter) of the portfolio exercise are available here : [solutions](https://openclassrooms-student-center.github.io/bootstrap-5-EN/)
-
-## Contributing
-
-- Benoît Philibert
-- [Max Mahmoud Wardeh](https://www.linkedin.com/in/mwardeh/)
-- [Luca Bousquet](https://www.linkedin.com/in/lucabousquet/)
 
 
 ## License
